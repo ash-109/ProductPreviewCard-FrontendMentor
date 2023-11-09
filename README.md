@@ -1,5 +1,7 @@
 # Frontend Mentor - Product preview card component
 
+https://ash-109.github.io/ProductPreviewCard-FrontendMentor/
+
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
